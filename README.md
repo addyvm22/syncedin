@@ -1,5 +1,5 @@
-# syncedin
-sap application for jobs
+# Syncedin
+SAP application for jobs
 
 
 In this SAP application,recruiters can post jobs and conduct examinations.
