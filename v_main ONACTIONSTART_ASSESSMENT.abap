@@ -1,0 +1,5 @@
+method ONACTIONSTART_ASSESSMENT .
+
+  WD_THIS->FIRE_TO_V_QUESTIONS_PLG(
+  ).
+endmethod.
